@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PvZProjekt", "PvZProjekt\PvZProjekt\PvZProjekt.csproj", "{18D9F330-1504-4802-A7F6-5BCFB635365E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PvZProjektContent", "PvZProjekt\PvZProjektContent\PvZProjektContent.contentproj", "{4847342C-D8DE-4E12-BCA4-A9F0BD848602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D9F330-1504-4802-A7F6-5BCFB635365E}.Debug|x86.ActiveCfg = Debug|x86
+		{18D9F330-1504-4802-A7F6-5BCFB635365E}.Debug|x86.Build.0 = Debug|x86
+		{18D9F330-1504-4802-A7F6-5BCFB635365E}.Release|x86.ActiveCfg = Release|x86
+		{18D9F330-1504-4802-A7F6-5BCFB635365E}.Release|x86.Build.0 = Release|x86
+		{4847342C-D8DE-4E12-BCA4-A9F0BD848602}.Debug|x86.ActiveCfg = Debug|x86
+		{4847342C-D8DE-4E12-BCA4-A9F0BD848602}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
