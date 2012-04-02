@@ -46,7 +46,7 @@ namespace PvZProjekt
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-
+            //Så mycket skit jag skriver i LoadContent
             // TODO: use this.Content to load your game content here
         }
 
